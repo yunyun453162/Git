@@ -30,4 +30,6 @@
 
 	版本介绍：目前最新版本富掌柜所在路径，该分支上有一个相对较老一些的微店版本，目前该分支的微店功能处停止维护状态。
 
+
+//add by ykp
 Git is a distributed version control system.
