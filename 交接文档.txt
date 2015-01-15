@@ -1,0 +1,31 @@
+                                 IOS 交接文档
+					余科平 2015年01月15日
+
+1.智慧街 （1号街同包）
+	SVN 路径：http://svn.fuiou.com/repos/csd/ewallet/branches/Develop/IOS_Client/
+
+	版本介绍：Version1.0.0 －主分支，目前上线的两应用（智慧街，1号街）本均为该分支最新版，暂停开发
+		Version2.0.0－次分支1，智慧街与1号街的早期版本，并集成有电子钱包，目前该分支处暂停状态；
+		Version3.0.0－次分支2，智慧街与1号街的早期版本，更改了商品的检索条件等，暂停开发；
+
+
+
+2.电子钱包（单店版）
+	SVN路径：http://svn.fuiou.com/repos/csd/ewallet/branches/Develop/IOS_EWALLET/FuEWallet/
+	版本介绍：电子钱包早期版本，目前已停止开发
+
+
+3.和圈（社交导购）
+	SVN路径：http://svn.fuiou.com/repos/csd/HeQuan_iOS/branches/Develop/HeQuan/
+	
+	版本介绍：和圈惟一分支，appstore版本比本地版本略旧，目前已暂停开发
+
+4.富掌柜（微店）
+	SVN路径：http://svn.fuiou.com/repos/csd/BT_POS/branches/Develop/OS/WPB_2.4/
+
+	版本介绍：微店的最新版本所在路径，目前强制用代码屏蔽了主页切换和将首页的店店富储值卡替换为微店入口，该分支处于微店独占开发状态，基于一个上线的富掌柜版本。
+
+	SVN路径：http://yukeping@svn.fuiou.com/repos/csd/BT_POS/branches/Develop/OS/WPB_PRO/
+
+	版本介绍：目前最新版本富掌柜所在路径，该分支上有一个相对较老一些的微店版本，目前该分支的微店功能处停止维护状态。
+
