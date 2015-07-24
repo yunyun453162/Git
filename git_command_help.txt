@@ -30,6 +30,13 @@ git remote add origin git@server-name:path/repo-name.git
 //https模式
 git remote add origin https://github.com/path/repo-name.git
 //删除当前的远程关联，当我们要换远程仓库时，我们要删除当旧关联，才能建新关联。
+//上面的说法是错的，我们可以同时关联多个，但是命令不一样了
+//不过还有另一种办法，改配置文件
+vim .git/config 
+
+[remote "web"] 
+url = ssh://server.example.org/home/ams/website.git 
+url = ssh://other.exaple.org/home/foo/website.git
 git remote rm origin
 
 查看分支：git branch
