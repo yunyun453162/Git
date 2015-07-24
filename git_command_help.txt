@@ -29,7 +29,7 @@ $ git commit -m "remove test.txt"
 git remote add origin git@server-name:path/repo-name.git
 //https模式
 git remote add origin https://github.com/path/repo-name.git
-//删除当前的远程关联 
+//删除当前的远程关联，当我们要换远程仓库时，我们要删除当旧关联，才能建新关联。
 git remote rm origin
 
 查看分支：git branch
